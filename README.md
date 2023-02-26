@@ -1,1 +1,8 @@
-# CS-330-COMP-GRAPHIC-AND-VISUALIZATION
+# How do I approach designing software?
+The desigining skills that this project has helped me develop is my color and light theory as well as texture apllication. Before this class, I didn't care much about the astethics of a final project. With this project, I was able to focus on the individual details and was very happy with the finishing result. The design process I followed was my orginal design proposal with making little tweaks along the way. I also incoporated a computer science design process of analysis, design, build, test. This simple design process can be applied in my future work beacuse steps can easily be added to create the perfect design process for each project.
+
+# How do I approach developing programs?
+A few new development strategies I used was using various files and functions. I used iteration for the whole project with the render loop. I created various functions that would run inside the render loop to create the final scene. My process to developing code from module to module has taught me to use a lot more functions to make a complex project. I used a lot of functions and files but each portion was relatively small amount of code to exucute.
+
+# How can computer science help me in reaching my goals?
+This was my first time usuing computer science to create a virtual world, i'm not sure what area I want to have my emphais in but graphic development is starting to pull ahead. I can use what I learned in this class in my future education if I continue on this pathway and do some sort of game developement. Regardless of what area of computer science I decide to take my education further in, the knowledge I learned from this class can help me in my future carrer because I will have more languages under my belt and a broader variety of skills to showcase in the workforce.
